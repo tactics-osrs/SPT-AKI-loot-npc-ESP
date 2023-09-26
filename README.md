@@ -1,4 +1,8 @@
 # SPT-AKI-loot-npc-ESP
+You must own a legitemate copy of Escape from Tarkov.
+This Plugin only works with SPT-AKI Official copies.
+You can download SPT-AKI @ https://www.sp-tarkov.com/#download
+
 #####################################################################
 This is a attempt at making a bot/loot ESP Built for a old version 
 of EmuTarkov, using Visual Studio 2022 with C++, I took the code and
