@@ -1,6 +1,6 @@
 # SPT-AKI-loot-npc-ESP
 #####################################################################
-This is a attempt at making a bot/loot ESP Built for a old version
+This is a attempt at making a bot/loot ESP Built for a old version using Visual Studio 2022 with C++,
 of EmuTarkov, I took the code and made it work for SPT-Tarkov, updated the versions and files, and compiled it into a .DLL File for ease of installation.
 #####################################################################
 I do not own this CODE! The original maker of this code is written
