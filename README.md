@@ -28,6 +28,8 @@ As this is now a BepInEx Plugin, it's very straight forward to install from my p
 1. Copy the DLL into your AKI installation folder > BepInEx > plugins 
 
 2. Profit!$$
+
+3. NOTE: DO NOT CLOSE THE CMD WINDOW THAT OPENS WITH THE PLUGIN. Couldnt remove it.
 ###############################Tactics###############################
 
 MIT License
