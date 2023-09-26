@@ -4,6 +4,7 @@ This is a attempt at making a bot/loot ESP Built for a old version
 of EmuTarkov, using Visual Studio 2022 with C++, I took the code and
 made it work for SPT-Tarkov, updated the versions and files, and 
 compiled it into a .DLL File for ease of installation.
+Aimbot currently does not work couldn't figure it out.
 #####################################################################
 I do not own this CODE! The original maker of this code is written
 by "DrGnomeo" and all credit goes to him I just used his repository to
