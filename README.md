@@ -5,7 +5,7 @@ You can download SPT-AKI @ https://www.sp-tarkov.com/#download
 
 #####################################################################
 This is a attempt at making a bot/loot ESP Built for a old version 
-of EmuTarkov, using Visual Studio 2022 with C++, I took the code and
+of EmuTarkov, using Visual Studio 2022 with C#, I took the code and
 made it work for SPT-Tarkov, updated the versions and files, and 
 compiled it into a .DLL File for ease of installation.
 Aimbot currently does not work couldn't figure it out.
